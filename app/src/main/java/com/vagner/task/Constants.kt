@@ -4,4 +4,6 @@ object Constants {
 
     const val EXTRA_NEW_TASK = "EXTRA_NEW_TASK"
 
+    const val TESTE = "TESTE"
+
 }
